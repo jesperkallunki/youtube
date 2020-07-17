@@ -1,21 +1,27 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Youtube](https://www.youtube.com)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Youtube](https://www.youtube.com).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+# All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+
+1. Enhancer for Youtube
+
+    Theme -> Custom theme -> copypaste content of dracula.css -> Save
+
+2. Stylus
+
+    New style -> youtube.com as name -> check that Activated is selected -> copypaste content of dracula.css -> Save
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[Jepulisk](https://github.com/Jepulisk)
 
 ## License
 
-[MIT License](./LICENSE)
+[GNU General Public License v3.0](./LICENSE)
