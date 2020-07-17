@@ -12,6 +12,10 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Enhancer for Youtube
+
+    Theme -> Custom theme -> copypaste content of dracula.css -> Save
+
+2. Stylus
+
+    New style -> youtube.com as name -> check that Activated is selected -> copypaste content of dracula.css -> Save

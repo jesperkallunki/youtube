@@ -6,8 +6,6 @@
 
 ## Install
 
-# All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
-
 1. Enhancer for Youtube
 
     Theme -> Custom theme -> copypaste content of dracula.css -> Save
@@ -25,3 +23,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 ## License
 
 [GNU General Public License v3.0](./LICENSE)
+
+## Source
+
+[YouTube-DeepDark by RaitaRoh](https://github.com/RaitaroH/YouTube-DeepDark)
